@@ -5,3 +5,6 @@ pip install pygame
 run test/main.py
 
 Devpost Demo: https://devpost.com/software/hero-of-codemere?ref_content=my-projects-tab&ref_feature=my_projects
+
+### Edits to be made:
+write project purpose, tech stack, installation and usage instructions, link devpost.
